@@ -1,4 +1,4 @@
-# Growth Hacking with NLP and Sentiment Analysis *[work in progress]*
+# Growth Hacking with NLP and Sentiment Analysis
 This repo was made to the liveProject
 [Growth Hacking with NLP and Sentiment Analysis](https://liveproject.manning.com/project/136).
 
