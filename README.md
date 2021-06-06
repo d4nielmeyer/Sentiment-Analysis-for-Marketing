@@ -8,22 +8,19 @@ To be able to find out what makes a video game worth buying according to gamers,
 
 ## Project Outline:
 
-The project is made up of five steps, which are built on each other:
+The project is made up of four steps, which are built on each other:
 
 * Creating the dataset
-* Creating a dictionary-based sentiment analyzer
-* Evaluating the dictionary-based sentiment analyzer
+* Creating and evaluating a lexicon-based sentiment analyzer
 * Creating neural network-based sentiment analyzers
 * Reporting the results
 
 ## Tech Stack:
 
 * *Google Colab*: for writing and executing the code
-* *Jupyter*: for running Jupyter Notebooks
 * *NLTK*: for doing basic sentiment analysis
 * *pandas*: for storing the data as a dataframe
 * *scikit-learn*: for evaluating the results
 * *Imbalanced-learn*: for sampling from the Amazon review dataset
 * *PyTorch*, *transformers*, and *simpletransformers*: for building the sentiment classifier and for using the distilbert model
 * *Altair*: for visualization
-* *nbconvert*: for turning Jupyter Notebooks into presentations
